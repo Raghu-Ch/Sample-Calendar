@@ -1,0 +1,17 @@
+h1 {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+.calender ul {
+    padding-left: 0;
+}
+
+.calender li {
+  display: block;
+  float: left;
+  width: 25%;
+  border: 2px solid white;
+  padding: 5px;
+  height: 40px;
+  background-color: rgb(23, 135, 201);
+  color: white;
+}
